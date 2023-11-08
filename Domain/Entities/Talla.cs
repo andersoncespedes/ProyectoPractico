@@ -8,5 +8,7 @@ namespace Domain.Entities;
     {
         public string Descripcion {get; set;}
         public ICollection<Prenda> Prendas {get; set;}
+        public ICollection<Producto> Inventarios {get; set;}
         public ICollection<InventarioTalla> InventarioTallas {get; set;}
+        public ICollection<DetalleVenta> DetalleVentas {get; set;}
     }

@@ -13,4 +13,5 @@ public class Producto : BaseEntity
     public double ValorVtaUsd {get; set;}
     public ICollection<Talla> Tallas {get; set;}
     public ICollection<InventarioTalla> InventarioTallas {get; set;}
+    public ICollection<DetalleVenta> DetalleVentas {get; set;}
 }

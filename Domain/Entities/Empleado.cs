@@ -14,4 +14,5 @@ public class Empleado : BaseEntity
     public int IdCiudadFk {get; set;}
     public Ciudad Ciudad {get; set;}
     public ICollection<Venta> Ventas {get; set;}
+    public ICollection<Orden> Ordenes {get; set;}
 }

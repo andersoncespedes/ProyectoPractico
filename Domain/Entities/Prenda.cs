@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace Domain.Entities;
     public class Prenda : BaseEntity
     {
-        public string IdPrenda {get; set;}
+        public string Codigo {get; set;}
         public string Nombre {get; set;}
         public double ValorUnitCop {get; set;}
         public double ValorUnitUsd {get; set;}
@@ -19,4 +19,5 @@ namespace Domain.Entities;
         public ICollection<Insumo> Insumos {get; set;} 
         public ICollection<InsumoPrenda> InsumoPrendas {get; set;}
         public ICollection<DetalleOrden> DetalleOrdenes {get; set;}
+        public ICollection<Producto> Inventarios {get; set;}
     }
