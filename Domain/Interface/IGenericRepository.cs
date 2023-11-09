@@ -13,5 +13,7 @@ public interface IGenericRepository<T> where T: BaseEntity
     void Update(T entity);
     void Remove(T entity);
     IEnumerable<T> Find(Expression<Func<T,bool>> expression);
-    
+    Task<T> GetById(int id);
+    Task<IEnumerable<T>> GetAll();
+    Task<(int totalRegistros, IEnumerable<T>)> Paginacion(int pageIndex, int pageSize, string search);    
 }
