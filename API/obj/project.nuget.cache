@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+fsdYyuOzKjnIoL1gnFR0vjEZbzWxKgFHxf1PZ2hZZ5DC1mLMMPVz47jZu/eLZeNB+nxPZhPFvM5jKFIPAgNKQ==",
+  "dgSpecHash": "TpCqlBnXEByj35WjWIeuqbf7hlD76R0UddP71PiPGVq51cb8x94npMnflixQgZ6D6OYEdevzdHu1WXEHI1inYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\APOLT01\\Documents\\prueba_ropa\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "C:\\Users\\APOLT01\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\jwt\\10.1.1\\jwt.10.1.1.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.13\\microsoft.aspnetcore.authentication.jwtbearer.7.0.13.nupkg.sha512",
+    "C:\\Users\\APOLT01\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.13\\microsoft.aspnetcore.jsonpatch.7.0.13.nupkg.sha512",
+    "C:\\Users\\APOLT01\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.13\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.13.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -38,7 +40,8 @@
     "C:\\Users\\APOLT01\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
-    "C:\\Users\\APOLT01\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\APOLT01\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\APOLT01\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\APOLT01\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
